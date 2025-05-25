@@ -1,4 +1,4 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟥 Complete outage**
+# [📈 Live Status](https://demo.upptime.js.org)
 
 This repository contains the open-source uptime monitor and status page for [MIT Preparation Academy](mitpa.tech), powered by [Upptime](https://github.com/upptime/upptime).
 
